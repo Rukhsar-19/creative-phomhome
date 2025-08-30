@@ -1,0 +1,90 @@
+.footerlist{
+    display: flex;
+    gap:80px;
+   
+
+}
+.footertop{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    z-index: 9;
+   
+}
+.footerlist li a{
+    text-decoration: none;
+    color:white;
+        display: flex;
+    gap: 10px;
+    font-size: 12px;
+}
+
+.footer{
+    background-color: rgb(28,28,101);
+   padding: 114px 0px;
+     /* height:47vh;  */
+   
+    /* position: relative;
+    z-index: 1;
+    */
+}
+.colorchange{
+    color:white;
+}
+.Allfooterlogos{
+    display: flex;
+    justify-content: center;
+    margin: 72px 0px;
+}
+.posalllogos{
+    display: flex;
+    gap:10px;
+    justify-content: center;
+    position: relative;
+    z-index: 9;
+}
+.endfooter{
+    float:right;
+    color:rgb(177,177,202);
+    padding: 30px;
+    font-size: 13px;
+   
+}
+.terms{
+     border-top: 1px solid rgb(177,177,202);
+
+    /* border-top: 1px solid rgb(191,191,209); */
+}
+.footerpics{
+    position:absolute;
+     left: 24px;
+    top: -457px;
+}
+.gettouchlastsec{
+   position: relative;
+   /* width:80%; */
+}
+.footercirclepic{
+    width:40%;
+}
+.footerpostop{
+    position: relative;
+}
+.lastimg{
+       position: absolute;
+    bottom: -67px;
+    right: -168px;
+    width: min(90%, 878px);
+}
+.logo-img {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.logo-img:hover {
+  transform: scale(1.2);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+
+
+

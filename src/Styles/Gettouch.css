@@ -1,0 +1,179 @@
+.gettouch{
+    background-color: rgb(15,16,63);
+    /* min-height: 170vh; */
+    position: relative;
+
+     /* padding-bottom: 50px;  */
+      padding: 490px 0px 
+      /* overflow: hidden;  */
+    
+         
+}
+.gettouchform{
+        width: 700px;
+      height: 421px;
+      /* background: rgb(34,34,108); */
+      background: rgba(47, 47, 138, 0.6);
+backdrop-filter: blur(10px);
+      border-radius: 15px;
+     padding: 56px;
+      /* margin: -536px auto;
+      position: relative; */
+
+      /* jj */
+
+
+        display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  /* gap: 40px;  */
+
+      position: absolute;
+        top: 377px;
+    left: 236px;
+    z-index: 9;
+    
+
+}
+
+.textsideform{
+margin-bottom: 46px;
+}
+.formhead{
+    font-size: 14px;
+    color:white;
+    font-weight: bold;
+}
+.form-content{
+    font-size: 12px;
+    color: white;
+    width:55%;
+   
+}
+
+
+
+.uipic1{
+      background: rgba(255, 255, 255, 0.3);
+       padding: 3px 9px;
+    border-radius: 50%;
+    width: 12%;
+}
+.uipic1 i{
+    color: white;
+   font-size: 18px;
+}
+.icontext{
+    color:white;
+    font-size: 10px;
+}
+.formicons{
+        display: flex
+;
+    align-items: center;
+    gap: 10px;
+        margin-bottom: 10px;
+}
+/* .left {
+  position: absolute;
+  top: 0; /* Align to top */
+  /* right: 0;  */
+  /* padding: 20px;
+  background-color: #f0f0f0;  */
+  /* border-radius: 8px; */
+/* }  */
+
+
+
+/* .gettouchform {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 20px; 
+} */
+
+
+.textside{
+    width: 345px;
+}
+.rightformside{
+    width:328px;
+}
+
+
+/* rightsideform */
+.message{
+    font-size: 14px;
+    color: white;
+    font-weight: bold;
+}
+
+.input-field{
+        width: 273px;
+    padding: 9px;
+    border-radius: 8px;
+    background-color: rgb(100,100,153);
+    border:none;
+    font-size: 9px;
+}
+.input-field::placeholder{
+    /* color:white; */
+    color:rgb(187,188,211);
+    font-size: 11px;
+}
+.allinputs{
+        margin-top: 14px;
+}
+.areaoftext{
+        width: 92%;
+     background-color: rgb(100,100,153);
+    height: 140px;
+    border-radius: 8px;
+    padding: 10px;
+}
+.areaoftext::placeholder{
+    /* color:white; */
+    color:rgb(187,188,211);
+    font-size: 11px;
+}
+
+
+.areatext{
+    margin-top:14px;
+   
+}
+.picturegirl{
+        z-index: 10;
+    position: absolute;
+    top: 25px;
+    left: 74px;
+}
+.noborder{
+    border-radius: 12px;
+    padding: 7px 25px;
+}
+
+
+   
+
+/* .gettouchlastsec {
+    position: absolute;
+    /* width: 80%; */
+    /* top: 230px; */
+    /* z-index: 5; */
+    /* top: 5px; */
+    /* bottom: -219px;
+    right: -2896px;
+    */
+ 
+/* }  */
+/* .lastimg{
+      /* width: 30%;  */
+      /* width: min(73%, 625px); */
+     
+ 
+/*    
+    object-fit: contain;
+ 
+  
+}  */

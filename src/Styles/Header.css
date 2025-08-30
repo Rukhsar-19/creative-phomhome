@@ -1,0 +1,22 @@
+.header{
+ width: 100%;
+ position: fixed;
+ z-index:1;
+ padding: 18px;
+ 
+}
+.header-logo{
+    width:3%;
+}
+.headlist{
+    display: flex;
+    justify-content: center;
+    gap: 67px;
+    align-items: center;
+    
+}
+.headlist li a{
+    text-decoration: none;
+    color:white;
+    font-size: 12px;
+}

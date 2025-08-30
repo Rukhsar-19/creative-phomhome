@@ -1,0 +1,56 @@
+.aboutme{
+  background-color:  rgb(15,16,63);
+  position: relative;
+  height: 177vh;
+}
+.backgroundellipse{
+    position: absolute;
+    top: 8%;
+    left: 28%;
+    width:60%;
+        /* filter: drop-shadow(1px 0px 5px blue); */
+}
+.linearcolorcircle{
+    width: 414px;
+    height: 419px;
+    border-radius: 50%;
+   background: linear-gradient(to right, #C961DE, #2954A3);
+    position: absolute;
+        top: 6%;
+    left: -18%;
+    transform: translatex(50%);
+    z-index:9;
+}
+.girl{
+    
+
+    width: 73%;
+    position: absolute;
+  top: -37%;
+    left: 25px;
+}
+
+.aboutmecontent{
+    position:absolute;
+        top: 106px;
+    left: 198px;
+    padding: 14px;
+}
+.aboutmehead{
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+}
+.aboutmepara{
+    font-size: 10px;
+    color: white;
+   
+}
+.diamondaboutme{
+    
+    width: 44%;
+    position: absolute;
+    bottom: -95px;
+    right: 39px;
+    z-index: 10;
+}
